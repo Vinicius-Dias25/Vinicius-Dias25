@@ -8,7 +8,7 @@ I am passionate about automotive systems and motorsport, currently building my f
 
 ### 🌱 Current Focus & Active Learning
 I use this profile as an honest, public log of my progress and study milestones:
-- **Programming:** Building solid foundations in modern C++ (via Cisco NetAcad) and Python.
+- **Programming:** Building solid foundations in modern C++ and Python.
 - **Data & Telemetry:** Exploring race data extraction and lap analysis using FastF1 and Pandas.
 - **Core Engineering:** Studying algorithms, data structures, applied mathematics, and introductory vehicle dynamics.
 
