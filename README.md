@@ -2,24 +2,24 @@
 
 Computer Engineering student at **IBMEC Barra (Rio de Janeiro)**.
 
-I am passionate about motorsport and automotive systems, working to build a solid technical foundation in software engineering, telemetry analysis, and vehicle physics with the long-term goal of working in **Formula 1 / Motorsport Engineering**.
+I am passionate about automotive systems and motorsport, currently building my foundational skills in software development, data analysis, and vehicle physics. My long-term ambition is to build a career in **Formula 1 / Motorsport Engineering** and, with time and experience, grow into engineering leadership and team management.
 
 ---
 
 ### 🌱 Current Focus & Active Learning
-I use this space as a transparent public log of my learning journey:
-- **Programming:** Building core skills in modern C++ (via Cisco NetAcad) and Python.
-- **Data & Telemetry:** Exploring basic race telemetry extraction using FastF1, Matplotlib, and Pandas.
-- **Foundations:** Studying algorithms, data structures, and the basic physics of vehicle kinematics.
+I use this profile as an honest, public log of my progress and study milestones:
+- **Programming:** Building solid foundations in modern C++ (via Cisco NetAcad) and Python.
+- **Data & Telemetry:** Exploring race data extraction and lap analysis using FastF1 and Pandas.
+- **Core Engineering:** Studying algorithms, data structures, applied mathematics, and introductory vehicle dynamics.
 
 ---
 
-### 🎯 Current Study Projects
-- [ ] **F1 Telemetry Basics:** Introductory scripts for speed and braking delta comparisons.
-- [ ] **C++ & Logic Labs:** Exercises and problem-solving implementations from my coursework.
+### 🎯 Study Projects in Progress
+- [ ] **F1 Telemetry Foundations:** Basic scripts for speed, throttle, and braking comparisons.
+- [ ] **C++ & Algorithms Lab:** Documented exercises and problem-solving implementations.
 
 ---
 
-### 📬 Connect
+### 📬 Connect with Me
 - **LinkedIn:** [Vinicius Machado](https://www.linkedin.com/in/vinicius-machado-b1609926a)
 - **Location:** Rio de Janeiro, Brazil
